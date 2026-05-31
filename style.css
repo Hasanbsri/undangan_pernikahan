@@ -500,10 +500,11 @@ footer li {
 }
 .nama-tamu {
   display: inline-block;
-  font-weight: bold;
-  color: var(--pink);
-  font-size: 2rem;
-  font-family: 'Playfair Display', serif;
+  font-weight: 300;
+  color: #e8d5a8;
+  font-size: 1.2em;
+  font-family: 'Cormorant Garamond', serif;
+  font-style: italic;
 }
 #komentar-list .card {
   background: rgba(255,255,255,0.1);
